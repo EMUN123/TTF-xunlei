@@ -1,0 +1,5 @@
+function为主题框架，调取其它功能块实现字幕下载
+
+修改download中32行的文件目录为chrome默认下载目录
+
+存在bug：chrome下载时即使下载完成仍然存在crdownload文件，导致下载完成后selenium窗口依然无法关闭

@@ -1,0 +1,1 @@
+通用的request方法，使用session
