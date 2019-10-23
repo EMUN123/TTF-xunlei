@@ -1,1 +1,1 @@
-通用的request方法，使用session
+通用的request方法，使用session，期待后续ip池等功能
